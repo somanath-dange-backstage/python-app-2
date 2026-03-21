@@ -1,1 +1,3 @@
 replicaCount: 1
+image:
+  tag: 4a8fad
